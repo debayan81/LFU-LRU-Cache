@@ -1,4 +1,4 @@
-# High-Performance Catche Simulator Implementation in C++
+# High-Performance Cache Simulator Implementation in C++
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
