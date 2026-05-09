@@ -1,4 +1,4 @@
-# LFU and LRU Cache Implementation in C++
+# High-Performance Catche Simulator Implementation in C++
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
